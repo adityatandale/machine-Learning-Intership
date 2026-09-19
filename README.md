@@ -23,7 +23,7 @@ pip install streamlit pandas numpy scikit-learn matplotlib
 From the folder containing both files:
 
 ```bash
-streamlit run churn_app.py
+streamlit run churn_prediction.py
 ```
 
 This opens the app in your browser at `http://localhost:8501`. If it doesn't open automatically, go to that address manually.
